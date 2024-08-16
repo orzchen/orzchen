@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=重开是我的权力！;Restarting is my right!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=重开是我的权力！;Restarting+is+my+right!)](https://git.io/typing-svg)
